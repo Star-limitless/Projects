@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>login_background1.jpg</file>
+        <file>T1.jpg</file>
+        <file>Editor.jpg</file>
+        <file>home.jpg</file>
+        <file>home-background.jpg</file>
+        <file>app-icon1.png</file>
+    </qresource>
+</RCC>
